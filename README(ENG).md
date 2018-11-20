@@ -1,11 +1,11 @@
 
-
 # 84EC(S) Pro-Ble Keyboard (Non-RGB)
 English Translated Manual
 
 _by smallbee_
 _last edit  2018.11.17_
 
+_pull request is always welcome :)_
 
 <br>
 
@@ -45,17 +45,17 @@ Do it again to switch back to office mode.
 
 
 ## 6.1 Bluetooth Light
-*fast blink = pairing mode \
-*slow blink = connected \
-*constant on = connected (turns off after 5 seconds)
+* fast blink = pairing mode
+* slow blink = connected
+* constant on = connected (turns off after 5 seconds)
 
 <br>
 
 
 ## 6.2 Battery light (`(~) key)
-*on = charging \
-*off = charged \
-*blinking = battery low
+* on = charging
+* off = charged
+* blinking = battery low
 
 <br>
 
@@ -105,4 +105,4 @@ http://randombits.me/?p=155
 
 ### **Acknowledgements**
 Many thanks to kschang on reddit for the translation.  \
-https://www.reddit.com/r/MechanicalKeyboards/comments/76pudv/can_anyone_translate_the_manual_for_the_plum_84/
+https://www.reddit.com/r/MechanicalKeyboards/comments/76pudv/can_anyone_translate_the_manual_for_the_plum_84
