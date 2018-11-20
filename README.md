@@ -112,6 +112,10 @@ ReadAll 버튼을 누르지 않고 맵핑을 진행할 경우 실제 키보드�
 
 (본 프로그램은 윈도우 환경에서만 작동합니다)
 
+동영상 참고 : http://v.youku.com/v_show/id_XMzQxMjg5MzA0NA==.html?x&sharefrom=android&sharekey=b64f9bbcfb7ce67d6be729c0b98844d92 \
+(모바일 환경에서 접속하세요.)
+
+
 1. 'ReadVersion' 버튼 클릭 \
 (※ Fn + Win⇌Alt 로 윈도우 키와 Alt 키를 변경하였을 경우 'Keyboard disconnect'라는 에러 메시지 발생)
 
