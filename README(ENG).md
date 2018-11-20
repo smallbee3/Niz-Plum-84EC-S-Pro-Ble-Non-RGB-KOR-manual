@@ -3,9 +3,11 @@
 English Translated Manual
 
 _by smallbee_
-_last edit  2018.11.17_
+_last edit  2018.11.20_
 
-_pull request is always welcome :)_
+<br>
+
+pull request is always welcome :)
 
 <br>
 
@@ -80,7 +82,7 @@ hold down ALL FOUR CORNER KEYS (Esc, Ctrl(Left), →, Delete) for 5 seconds
 
 # Extra
 
-## 9.0 For MacOS user who often use F1 - F12
+## 9. For MacOS user who often use F1 - F12
  *  If you are using MacOS, Fn + F1 – F12 would not work as you expected.
 ksmigrod explanied the reason for the problem in reddit. \
   “On Linux in Bluetooth mode this keyboard is supported by Apple keyboard driver. This driver tries to mimic Apple keyboard behaviour and does conversion from function key (F1-F12) to media key codes on the fly. NiZ keyboard does not send any codes for its function key, so Linux's keyboard driver cannot map Fn+F1 to F1.” \
@@ -92,10 +94,40 @@ Instead, I suggest you to toggle following macOS option as you want.  \
 <br>
 
 
-## 10.0 KBD84 software
+## 10. KBD84 software
 When using the KBD84 software to program the keyboard, be sure to select ReadAll first.  This reads the current keyboard mappings from the keyboard.  If you don’t select ReadAll first, you will be essentially starting with blank mappings and you will need to map every single key.
 
 <br>
+
+
+## 11. Calibration with key not working
+Source : Software > CalibrationiLite > CalibrationLite.exe
+
+(This program only support Windows OS)
+
+1. Press 'ReadVersion' \
+(※ If you switch Win key and Alt key, the error message('Keyboard disconnect') will appear)
+
+
+2. Press 'InitialCalib' \
+(After 2-3 seconds, InitialCalib will finish)
+
+
+3. (With pressing the key not working) Press 'PressCalib' \
+(Calibration is finished when 'Press Key Calibration Finished' shows up)
+
+
+4. (With pressing the key not working) Close the software
+
+
+5. Release the the key not working. Reconnect the keyboard, and check the key
+
+<br>
+
+(※ Try several times with the solution above. If key is not working after the trial, pressing the key not working from the second step of solutions)
+
+<br>
+
 
 
 ### _**Additional Notes**_

@@ -108,9 +108,9 @@ ReadAll 버튼을 누르지 않고 맵핑을 진행할 경우 실제 키보드�
 
 
 ## 11. 키 작동 불능 시 Calibration 방법
-파일 위치 : Software > CalibrationiLite > CalibrationLite.exe)
+파일 위치 : Software > CalibrationiLite > CalibrationLite.exe
 
-(본 프로그램은 윈도우에서만 작동합니다.)
+(본 프로그램은 윈도우 환경에서만 작동합니다)
 
 1. 'ReadVersion' 버튼 클릭 \
 (※ Fn + Win⇌Alt 로 윈도우 키와 Alt 키를 변경하였을 경우 'Keyboard disconnect'라는 에러 메시지 발생)
@@ -127,7 +127,7 @@ ReadAll 버튼을 누르지 않고 맵핑을 진행할 경우 실제 키보드�
 4. (작동 안되는 키를 여전히 누른 채로) 소프트웨어 종료
 
 
-5. 다시 PC에 연결 후 문제 키의 정상 작동 여부 확인
+5. 누르던 문제되는 키를 떼고, 다시 PC에 연결해서 키의 정상 작동 여부 확인
 
 <br>
 
